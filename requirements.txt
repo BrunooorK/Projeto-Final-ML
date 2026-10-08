@@ -1,0 +1,8 @@
+# Dependências do app.py (baseadas nos imports reais do código).
+# Execução de referência: Python 3.14.7 | scikit-learn 1.9.1 | pandas 3.0.6 | numpy 2.5.3
+# Os limites inferiores abaixo são conservadores e não foram testados um a um.
+pandas>=2.0
+numpy>=1.26
+matplotlib>=3.8
+scikit-learn>=1.4
+joblib>=1.3
