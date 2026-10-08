@@ -1,6 +1,4 @@
-# Análise de Sentimentos em PT-BR com Machine Learning
-
-Projeto Final da **UC9 — Compreender e Aplicar Machine Learning em soluções de IA** (SENAC).
+# Projeto Final Machine Learning
 Área 3: *Análise de sentimentos e classificação de texto*.
 
 > **Estado atual:** as etapas 3 a 9 (EDA até explicabilidade) estão implementadas em `app.py` e foram executadas localmente (VS Code, Windows). O notebook do Google Colab com as etapas 5 a 9, a análise de viés e a simulação de impacto de negócio ainda estão em andamento: veja [Próximos passos](#9-próximos-passos).
