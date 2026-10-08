@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+archive/*.csv
+resultados/
+*.joblib
+app_anterior.py
+.ipynb_checkpoints/
+.vscode/
