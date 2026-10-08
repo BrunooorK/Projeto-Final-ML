@@ -3,8 +3,6 @@
 Projeto Final da **UC9 — Compreender e Aplicar Machine Learning em soluções de IA** (SENAC).
 Área 3: *Análise de sentimentos e classificação de texto*.
 
-**Equipe (Grupo 3):** Luis, Bruno e João Lucas.
-
 > **Estado atual:** as etapas 3 a 9 (EDA até explicabilidade) estão implementadas em `app.py` e foram executadas localmente (VS Code, Windows). O notebook do Google Colab com as etapas 5 a 9, a análise de viés e a simulação de impacto de negócio ainda estão em andamento: veja [Próximos passos](#9-próximos-passos).
 
 ## Sumário
